@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Ignore all real EEG data
+eeg-data/*
+# But keep the eeg-data folder itself
+!eeg-data/README.md
