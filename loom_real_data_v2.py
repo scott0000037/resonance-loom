@@ -1,4 +1,4 @@
-# loom_real_data_v2_b0701T.py
+# loom_real_data_v2.py
 
 import mne
 import numpy as np
@@ -8,7 +8,9 @@ from scipy.stats import entropy
 # ---------------------
 # Configurations
 # ---------------------
-data_path = './eeg-data/BCICIV_2b_gdf/B0701T.gdf'
+# data_path = './eeg-data/BCICIV_2b_gdf/B0701T.gdf'
+
+data_path = './eeg-data/path-to/file.gdf' # Set your .gdf file path here
 selected_channel = 'EEG:C3'
 rest_duration = 2  # seconds (rest window before movement cue)
 task_duration = 3  # seconds (after movement cue)
