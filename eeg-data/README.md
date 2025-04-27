@@ -5,7 +5,7 @@ Here’s the **full final version** of the `eeg-data/README.md` (and after this,
 
 # `eeg-data/`
 
-This directory is intended to store the EEG data files used by the **Entropy Loom Project**.
+This directory is intended to store the EEG data files used by the **Resonance Loom Project**.
 
 ---
 
@@ -71,20 +71,20 @@ eeg-data/
 
 ## 🚫 Why Dataset 2a is Not Supported (Yet)
 
-- During our experimental runs, **Dataset 2a yielded no valid trials** for the current entropy loom analysis structure.
+- During our experimental runs, **Dataset 2a yielded no valid trials** for the current Resonance Loom analysis structure.
 - The markers and trial structure differ between Dataset 2a and 2b.
-- We may expand support in future versions of Entropy Loom for more datasets and experimental conditions!
+- We may expand support in future versions of Resonance Loom for more datasets and experimental conditions!
 
 ---
 
 ## 📜 License Reminder
 
 All original data remains under the license and terms defined by the [BCI Competition IV organizers](http://www.bbci.de/competition/iv/).  
-The Entropy Loom project provides tools to process EEG data but does not redistribute copyrighted material.
+The Resonance Loom project provides tools to process EEG data but does not redistribute copyrighted material.
 
 ---
 
-## 🧵 About the Entropy Loom Project
+## 🧵 About the Resonance Loom Project
 
 This project is part of a larger initiative exploring entropy fields, thought structures, and metaphysical signatures in EEG signals.
 

@@ -1,6 +1,6 @@
-# 🧠 Entropy Loom: Real-Time Cognitive Field Mapping
+# 🧠 Resonance Loom: Real-Time Cognitive Field Mapping
 
-Welcome to **Entropy Loom**! This project explores a groundbreaking approach to visualizing the real-time structure of thought using EEG data, entropy modeling, and field resonance theory.
+Welcome to **Resonance Loom**! This project explores a groundbreaking approach to visualizing the real-time structure of thought using EEG data, entropy modeling, and field resonance theory.
 
 ---
 
