@@ -135,6 +135,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+loom-env/
 
 # Spyder project settings
 .spyderproject
@@ -177,3 +178,4 @@ cython_debug/
 eeg-data/*
 # But keep the eeg-data folder itself
 !eeg-data/README.md
+.DS_Store

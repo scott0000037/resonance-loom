@@ -2,7 +2,7 @@ import mne
 import os
 
 # --- CONFIGURATION --- #
-gdf_folder = '/Users/joeystafford/Repos/theory42/entropy_loom/eeg-data/BCICIV_2b_gdf/'  # <-- Your actual folder
+gdf_folder = '/Users/joeystafford/Repos/resonance-loom/eeg-data/BCICIV_2b_gdf/'  # <-- Your actual folder
 sfreq_target = 250  # BCI 2b is usually recorded at 250 Hz
 
 # --- SCANNER --- #
